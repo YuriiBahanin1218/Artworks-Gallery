@@ -1,2 +1,5 @@
-# Artworks-Gallery
-Artworks_Gallery_IN_PHP_CSS_JavaScript_AND_MYSQL
+# ART-BAY
+An online art gallery web-based management system which allows collector/s and artist/s of Albay to buy or sell a product/s (arts like painting, photographs, sculptures, etc.) and promote their artwork/s by posting through the website.
+
+Developed by Yurri Bahanin
+Email: bannihanni383@gmail.com
